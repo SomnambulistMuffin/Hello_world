@@ -1,2 +1,3 @@
 # Hello_world
-simple github hello world program
+
+Haven't you wondered why peanut butter and jam are so good together?
